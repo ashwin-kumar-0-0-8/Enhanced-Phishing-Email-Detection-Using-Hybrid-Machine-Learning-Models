@@ -8,11 +8,8 @@ This project implements a two-level stacking ensemble of hybrid machine learning
 - **Evaluation**: Includes metrics such as accuracy, precision, recall, F1 score, False Positive Rate (FPR), and False Negative Rate (FNR).
 
 ## Dataset
-- **Source**: [Kaggle - Phishing Detection Dataset](https://www.kaggle.com)  
+- **Source**: [Kaggle - Phishing Detection Dataset]([https://www.kaggle.com](https://www.kaggle.com/datasets/shashwatwork/phishing-dataset-for-machine-learning))  
 - **Features**: Includes multiple attributes indicative of phishing behavior.  
   *(Dataset not included in the repository for privacy concerns; please download separately.)*
 
-## Requirements
-Install the required Python libraries using:
-```bash
-pip install -r requirements.txt
+
