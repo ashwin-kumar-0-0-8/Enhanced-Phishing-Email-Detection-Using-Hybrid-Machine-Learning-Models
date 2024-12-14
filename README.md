@@ -9,7 +9,6 @@ This project implements a two-level stacking ensemble of hybrid machine learning
 
 ## Dataset
 - **Source**: [Kaggle - Phishing Detection Dataset](https://www.kaggle.com/datasets/shashwatwork/phishing-dataset-for-machine-learning)  
-- **Features**: Includes multiple attributes indicative of phishing behavior.  
-  *(Dataset not included in the repository for privacy concerns; please download separately.)*
+
 
 
